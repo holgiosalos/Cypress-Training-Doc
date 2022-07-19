@@ -63,10 +63,13 @@ Ten en cuenta tener estudiados ciertos conceptos importantes (te dejamos unos en
 
 6. Añadir como colaboradores a:
    - [holgiosalos](https://github.com/holgiosalos)
-   - [Valeryibarra](https://github.com/Valeryibarra)
-   - [aperdomob](https://github.com/aperdomob)
+   - [danielgalvis98](https://github.com/danielgalvis98)
+   - [kliver98](https://github.com/kliver98)
+   - [AlejaGonzalezV](https://github.com/AlejaGonzalezV)
+   - [NicolasB2](https://github.com/NicolasB2)
    - [manuelq12](https://github.com/manuelq12)
-   - [JuanDelahozMiranda](https://github.com/JuanDelahozMiranda)
+   - [Valeryibarra](https://github.com/Valeryibarra)
+   - [veronicatofino](https://github.com/veronicatofino)
 
 ## 2. Configuracion inicial del proyecto
 
@@ -82,7 +85,7 @@ Ten en cuenta tener estudiados ciertos conceptos importantes (te dejamos unos en
 3. Crear una carpeta en la raíz del proyecto llamada `.github` con un archivo llamado `CODEOWNERS` (sin extensión) con lo siguiente:
 
    ```bash
-   * @holgiosalos @valeryibarra @aperdomob @manuelq12 @JuanDelahozMiranda
+   * @holgiosalos @danielgalvis98 @kliver98 @AlejaGonzalezV @NicolasB2 @manuelq12 @Valeryibarra @veronicatofino
    ```
 
 4. Ejecutar en consola `npm init` y colocar la siguiente información:
